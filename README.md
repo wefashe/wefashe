@@ -9,4 +9,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=wefashe&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&hide_border=true&hide_title=true" 
 />
 
+### 访问量
 
+![](http://profile-counter.glitch.me/wefashe/count.svg)
