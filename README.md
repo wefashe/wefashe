@@ -12,3 +12,8 @@
 ### 访问量
 
 ![](http://profile-counter.glitch.me/wefashe/count.svg)
+
+<img align="center" src="https://moe-counter--nriver1.repl.co/get/@wefashe_2023050518s45"><br>
+
+
+[![Stargazers over time](https://starchart.cc/wefashe/image-save.svg)](https://starchart.cc/wefashe/image-save)
